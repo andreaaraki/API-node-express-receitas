@@ -1,5 +1,4 @@
-# 2404-api-node-express
-Projeto utilizado no curso da Alura
+Projeto pessoal após concluir curso da Alura
 
 Lista de requisições possíveis:
 
