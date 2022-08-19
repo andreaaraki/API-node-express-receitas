@@ -4,6 +4,7 @@ Lista de requisições possíveis:
 
 GET
 http://localhost:3000/receitas -> lista todas as receitas
+
 http://localhost:3000/receitas/:id -> lista receita por id
 
 POST
