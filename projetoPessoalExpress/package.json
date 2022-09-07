@@ -1,0 +1,26 @@
+{
+  "name": "projetopessoalexpress",
+  "version": "1.0.0",
+  "description": "Projeto pessoal para armazenar dados de treino de academia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreaaraki/academia.git"
+  },
+  "keywords": [
+    "academia",
+    "treino"
+  ],
+  "author": "Andrea Araki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreaaraki/academia/issues"
+  },
+  "homepage": "https://github.com/andreaaraki/academia#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
